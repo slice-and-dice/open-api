@@ -1,6 +1,6 @@
 {
   "food-business-register": {
-    "url": "${POSTGRESQL_URL}",
+    "url": "${DB_URL}",
     "name": "food-business-register",
     "connector": "postgresql"
   },
