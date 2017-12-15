@@ -34,5 +34,9 @@
   "Role": {
     "dataSource": "db",
     "public": false
+  },
+  "food-business": {
+    "dataSource": "food-business-register",
+    "public": true
   }
 }
