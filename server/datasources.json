@@ -3,5 +3,9 @@
     "url": "${POSTGRESQL_URL}",
     "name": "food-business-register",
     "connector": "postgresql"
+  },
+  "db": {
+    "name": "db",
+    "connector": "memory"
   }
 }
