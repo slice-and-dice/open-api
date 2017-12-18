@@ -1,4 +1,4 @@
-# data-pipeline
+# open-api
 
 ## Running the app locally
 
